@@ -1,0 +1,16 @@
+2025-06-27 10:46:27,942 - INFO - Starting data ingestion process...
+2025-06-27 10:46:27,945 - INFO - Found 6 CSV files to process
+2025-06-27 10:46:27,946 - INFO - Starting to process file: begin_inventory.csv
+2025-06-27 10:46:34,020 - INFO - Completed processing begin_inventory.csv - Total rows: 206529
+2025-06-27 10:46:34,021 - INFO - Starting to process file: end_inventory.csv
+2025-06-27 10:46:40,488 - INFO - Completed processing end_inventory.csv - Total rows: 224489
+2025-06-27 10:46:40,491 - INFO - Starting to process file: purchases.csv
+2025-06-27 10:48:27,641 - INFO - Completed processing purchases.csv - Total rows: 2372474
+2025-06-27 10:48:27,643 - INFO - Starting to process file: purchase_prices.csv
+2025-06-27 10:48:27,954 - INFO - Completed processing purchase_prices.csv - Total rows: 12261
+2025-06-27 10:48:27,956 - INFO - Starting to process file: sales.csv
+2025-06-27 10:57:16,254 - INFO - Completed processing sales.csv - Total rows: 12825363
+2025-06-27 10:57:16,256 - INFO - Starting to process file: vendor_invoice.csv
+2025-06-27 10:57:16,468 - INFO - Completed processing vendor_invoice.csv - Total rows: 5543
+2025-06-27 10:57:16,469 - INFO - -------------Ingestion Complete------------
+2025-06-27 10:57:16,471 - INFO - Total Time Taken: 10.81 minutes
