@@ -1,3 +1,8 @@
 inventory.db
 
 /dataset
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
